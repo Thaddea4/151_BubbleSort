@@ -71,4 +71,11 @@ void BubbleSort()
     }
 }
 
+int main()
+{
+    input();
+    BubbleSort();
+    display();
+    return 0;
+}
 
